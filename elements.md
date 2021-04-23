@@ -6,139 +6,148 @@ feature_image: "https://im-machinery.de/images/header_neu.png"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
+Pumpeninstandsetzung RKP Moog/Bosch
+===================================
 
-# Heading 1
+**_"Ist Ihre Pumpe schwach auf der Brust ?!"_**
 
-## Heading 2
+Gerne bieten wir Ihnen eine Instandsetzung ihrer alten **Radialkolbenpumpe** an.  
+Als "Servicepartner RKP" von _Moog_ bringen wir hierbei das notwendige Know-How mit.
 
-### Heading 3
+Alle RKP-Pumpen verlassen unser Lager erst nach definiertem Durchlauf auf unserem Prüfstand.
 
-#### Heading 4
+  
 
-##### Heading 5
+Pumpentypen, die instand gesetzt werden
 
-###### Heading 6
+Bosch / Moog Nr.
 
-<small>A small element</small>
+Pumpengröße
 
-[A link](https://david.darn.es "A link")
+0514300 ...
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+RKP 16
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+0514500 ...
 
-* An item
-* An item
-* An item
-* An item
-* An item
+RKP 32
 
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
+0514600 ...
 
-> A simple blockquote
+RKP 45
 
-Some HTML...
+0514700 ...
 
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
+RKP 63
 
-...CSS...
+0514800 ...
 
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
+RKP 80
 
-...and JavaScript
+0514850 ...
 
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
+RKP 90
 
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
+0514900 ...
 
-`Single line of code`
+RKP 100
 
-## HTML Includes
+0514950 ...
 
-### Contact form
+RKP 140
 
-{% include site-form.html %}
+2518214 ...
 
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
+RKP 19
 
-### Demo map embed
+2518215 ...
 
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+RKP 32
 
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
+2518216 ...
 
-### Button include
+RKP 45
 
-{% include button.html text="A button" link="https://david.darn.es" %}
+2518217 ...
 
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
+RKP 63
 
-``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
-```
+2518218 ...
 
-### Icon include
+RKP 80 / RKP 100 / RKP 140
 
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
+D951 ...
 
-``` html
-{% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
-```
+RKP II 19
 
-### Video include
+D952 ...
 
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
+RKP II 32
 
-``` html
-{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
-```
+D953 ...
 
+RKP II 45
 
-### Image includes
+D954 ...
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+RKP II 63
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+D955 ...
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+RKP II 80
 
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
+D956 ...
 
-``` html
-{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+RKP II 100
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+D957 ...
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+RKP II 140
 
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-```
+![](https://im-machinery.de/images/pruefstandRKPII.JPG) ![](https://im-machinery.de/images/pruefstandRKPIV.JPG)
+
+  
+
+Instandsetzungsangebot
+
+Aufpreis für Pumpen mit Onboard-Elektronik Regler Euro 500,00 €
+
+Pumpengröße
+
+Instandsetzungspreis FIX
+
+RKP I und RKP II 140
+
+2500,00 €
+
+RKP I und II 90/100
+
+2200,00 €
+
+RKP I und II 80
+
+2000,00 €
+
+RKP I und II 63
+
+1800,00 €
+
+RKP I und II 45
+
+1600,00 €
+
+RKP I und II 32
+
+1400,00 €
+
+RKP I und II 16/19
+
+1200,00 €
+
+  
+
+* * *
+
+![](../../images/MoogRalf.png) ![](../../images/MoogJuergen.png)
+
+* * *
