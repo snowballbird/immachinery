@@ -1,7 +1,7 @@
 ---
 title: Bernd Grigat GmbH
 feature_image: "https://im-machinery.de/images/header_neu.png"
-permalink: "snowballbird.github.io/immachineryseite/"
+permalink: "snowballbird.github.io/immachinery/"
 outputs:
 - PHP
 ---
