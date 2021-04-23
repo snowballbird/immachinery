@@ -146,8 +146,4 @@ RKP I und II 16/19
 
   
 
-* * *
 
-![](../../images/MoogRalf.png) ![](../../images/MoogJuergen.png)
-
-* * *
