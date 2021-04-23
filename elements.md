@@ -1,13 +1,10 @@
 ---
 title: Elements
-feature_text: |
-  A demo of Markdown and HTML includes
 feature_image: "https://im-machinery.de/images/header_neu.png"
-excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
-Pumpeninstandsetzung RKP Moog/Bosch
-===================================
+
+# Pumpeninstandsetzung RKP Moog/Bosch
 
 **_"Ist Ihre Pumpe schwach auf der Brust ?!"_**
 
@@ -104,7 +101,6 @@ D957 ...
 
 RKP II 140
 
-![](https://im-machinery.de/images/pruefstandRKPII.JPG) ![](https://im-machinery.de/images/pruefstandRKPIV.JPG)
 
   
 
